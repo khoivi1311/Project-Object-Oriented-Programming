@@ -1,6 +1,6 @@
 # Project-Object-Oriented-Programming
 ## Giới Thiệu Đồ Án
-Đồ án cá nhân này là sự vận dụng những kiến thức đã được học và tìm hiểu về môn lập trình hướng đối tượng. Chương trình Quản lý Cửa hàng điện thoại được chạy trong Command Line với ba tính năng chính như: quản lý nhân viên, quản lý khách hàng, quản lý hóa đơn. Các thông tin khi được nhập vào hệ thống sẽ được lưu trữ dưới đạng file .txt
+Đồ án cá nhân này là sự vận dụng những kiến thức đã được học và tìm hiểu về môn lập trình hướng đối tượng. Chủ đề của đồ án này là Chương trình Quản lý Cửa hàng điện thoại. Chương trình này được chạy trong Command Line với ba tính năng chính như: quản lý nhân viên, quản lý khách hàng, quản lý hóa đơn. Các thông tin khi được nhập vào hệ thống sẽ được lưu trữ dưới đạng file .txt
 
 Trong quản lý nhân viên có những tính năng như sau:
 - Hiển thị danh sách các nhân viên.
